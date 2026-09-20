@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of industrial sensors and a measurement device">
+  <title>Illustration of industrial sensors and a measurement device</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ECF0F6"/><stop offset="1" stop-color="#DEE6EF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <rect x="150" y="250" width="230" height="110" rx="18" fill="#17324F"/><circle cx="150" cy="305" r="55" fill="#8FA3BA"/><circle cx="150" cy="305" r="30" fill="#D4922B"/><path d="M96 270 a62 62 0 0 0 0 70" fill="none" stroke="#D4922B" stroke-width="7" opacity="0.70"/><path d="M96 254 a82 82 0 0 0 0 102" fill="none" stroke="#D4922B" stroke-width="7" opacity="0.50"/><path d="M96 238 a102 102 0 0 0 0 134" fill="none" stroke="#D4922B" stroke-width="7" opacity="0.30"/><rect x="380" y="286" width="180" height="38" rx="10" fill="#52657D"/><rect x="540" y="230" width="150" height="150" rx="14" fill="#17324F"/><rect x="562" y="252" width="106" height="66" rx="6" fill="#B8D6C4"/><rect x="574" y="268" width="40" height="10" fill="#17324F"/><rect x="574" y="288" width="66" height="10" fill="#17324F" opacity="0.6"/><circle cx="586" cy="348" r="12" fill="#D4922B"/><circle cx="626" cy="348" r="12" fill="#8FA3BA"/>
+</svg>

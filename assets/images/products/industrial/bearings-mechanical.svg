@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of industrial bearings and mechanical parts">
+  <title>Illustration of industrial bearings and mechanical parts</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#EEF2F7"/><stop offset="1" stop-color="#E3EAF2"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <circle cx="330" cy="300" r="170" fill="#17324F"/><circle cx="330" cy="300" r="142" fill="#EEF2F7"/><circle cx="330" cy="300" r="74" fill="#8FA3BA"/><circle cx="330" cy="300" r="46" fill="#E3EAF2"/><circle cx="438.0" cy="300.0" r="24" fill="#17324F"/><circle cx="423.5" cy="354.0" r="24" fill="#17324F"/><circle cx="384.0" cy="393.5" r="24" fill="#17324F"/><circle cx="330.0" cy="408.0" r="24" fill="#17324F"/><circle cx="276.0" cy="393.5" r="24" fill="#17324F"/><circle cx="236.5" cy="354.0" r="24" fill="#17324F"/><circle cx="222.0" cy="300.0" r="24" fill="#17324F"/><circle cx="236.5" cy="246.0" r="24" fill="#17324F"/><circle cx="276.0" cy="206.5" r="24" fill="#17324F"/><circle cx="330.0" cy="192.0" r="24" fill="#17324F"/><circle cx="384.0" cy="206.5" r="24" fill="#17324F"/><circle cx="423.5" cy="246.0" r="24" fill="#17324F"/><circle cx="600" cy="196" r="88" fill="none" stroke="#D4922B" stroke-width="26"/><circle cx="600" cy="196" r="34" fill="#D4922B" opacity="0.5"/><circle cx="618" cy="424" r="62" fill="none" stroke="#8FA3BA" stroke-width="22"/>
+</svg>

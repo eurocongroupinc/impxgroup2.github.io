@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of rechargeable energy products">
+  <title>Illustration of rechargeable energy products</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ECF0F6"/><stop offset="1" stop-color="#DEE6EF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <rect x="180" y="220" width="400" height="180" rx="26" fill="#17324F"/><rect x="580" y="272" width="34" height="76" rx="8" fill="#17324F"/><rect x="210" y="250" width="250" height="120" rx="12" fill="#D4922B"/><rect x="472" y="250" width="78" height="120" rx="12" fill="#8FA3BA" opacity="0.5"/><path d="M352 246 l-46 88 h44 l-22 76 84 -104 h-46 l34 -60 z" fill="#EEF2F7" opacity="0.92"/><rect x="200" y="440" width="150" height="66" rx="14" fill="#52657D"/><rect x="216" y="456" width="90" height="34" rx="8" fill="#E9B865"/><rect x="400" y="440" width="150" height="66" rx="14" fill="#52657D"/><rect x="416" y="456" width="50" height="34" rx="8" fill="#E9B865"/>
+</svg>

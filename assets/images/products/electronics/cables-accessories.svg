@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of electrical cables and accessories">
+  <title>Illustration of electrical cables and accessories</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ECF0F6"/><stop offset="1" stop-color="#DEE6EF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <path d="M110 200 C 260 110, 340 330, 470 230 S 700 150, 720 250" fill="none" stroke="#17324F" stroke-width="26" stroke-linecap="round" opacity="0.95"/><path d="M110 234 C 260 144, 340 364, 470 264 S 700 184, 720 284" fill="none" stroke="#D4922B" stroke-width="26" stroke-linecap="round" opacity="0.95"/><path d="M110 268 C 260 178, 340 398, 470 298 S 700 218, 720 318" fill="none" stroke="#8FA3BA" stroke-width="26" stroke-linecap="round" opacity="0.95"/><circle cx="330" cy="430" r="86" fill="none" stroke="#52657D" stroke-width="30"/><circle cx="330" cy="430" r="46" fill="none" stroke="#52657D" stroke-width="26"/><rect x="520" y="396" width="140" height="56" rx="10" fill="#17324F"/><rect x="660" y="410" width="46" height="28" rx="4" fill="#8FA3BA"/>
+</svg>

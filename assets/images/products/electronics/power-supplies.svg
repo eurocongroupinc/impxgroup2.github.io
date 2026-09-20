@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of power supply units and adapters">
+  <title>Illustration of power supply units and adapters</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ECF0F6"/><stop offset="1" stop-color="#DEE6EF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <rect x="170" y="200" width="270" height="200" rx="22" fill="#17324F"/><rect x="196" y="226" width="218" height="120" rx="8" fill="#22415F"/><rect x="218" y="250" width="120" height="12" rx="4" fill="#8FA3BA" opacity="0.7"/><rect x="218" y="276" width="170" height="10" rx="4" fill="#8FA3BA" opacity="0.45"/><circle cx="382" cy="312" r="16" fill="#D4922B"/><rect x="140" y="272" width="34" height="56" rx="6" fill="#8FA3BA"/><path d="M440 260 h120 v-30 h40 v30 h20" fill="none" stroke="#52657D" stroke-width="16" stroke-linecap="round"/><rect x="560" y="290" width="150" height="150" rx="20" fill="#8FA3BA"/><rect x="596" y="326" width="34" height="46" rx="4" fill="#EEF2F7"/><rect x="644" y="326" width="34" height="46" rx="4" fill="#EEF2F7"/><path d="M612 396 h56" stroke="#EEF2F7" stroke-width="12" stroke-linecap="round"/>
+</svg>

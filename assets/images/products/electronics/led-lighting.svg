@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of LED lighting products">
+  <title>Illustration of LED lighting products</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ECF0F6"/><stop offset="1" stop-color="#DEE6EF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <path d="M400 120 a118 118 0 0 1 78 206 v34 h-156 v-34 a118 118 0 0 1 78-206 z" fill="#E9B865"/><path d="M400 150 a90 90 0 0 1 60 157 v22 h-120 v-22 a90 90 0 0 1 60-157 z" fill="#FBEBCD"/><rect x="344" y="366" width="112" height="20" rx="4" fill="#52657D"/><rect x="352" y="392" width="96" height="18" rx="4" fill="#8FA3BA"/><rect x="360" y="416" width="80" height="26" rx="6" fill="#17324F"/><line x1="254" y1="206" x2="209" y2="196" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><line x1="277" y1="154" x2="239" y2="128" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><line x1="318" y1="114" x2="293" y2="76" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><line x1="371" y1="93" x2="363" y2="48" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><line x1="429" y1="93" x2="437" y2="48" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><line x1="482" y1="114" x2="507" y2="76" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><line x1="523" y1="154" x2="561" y2="128" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><line x1="546" y1="206" x2="591" y2="196" stroke="#D4922B" stroke-width="9" stroke-linecap="round" opacity="0.5"/><rect x="120" y="440" width="150" height="90" rx="8" fill="#EEF2F7" stroke="#8FA3BA" stroke-width="6"/><rect x="540" y="440" width="150" height="90" rx="8" fill="#EEF2F7" stroke="#8FA3BA" stroke-width="6"/>
+</svg>

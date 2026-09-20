@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of fresh agricultural produce in a crate">
+  <title>Illustration of fresh agricultural produce in a crate</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#F0F1E9"/><stop offset="1" stop-color="#E4E7D9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#3F4A2E" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <rect x="150" y="300" width="500" height="190" rx="14" fill="#C08A4E"/><rect x="150" y="300" width="500" height="190" rx="14" fill="none" stroke="#9A6C39" stroke-width="10"/><rect x="170" y="310" width="16" height="170" fill="#9A6C39" opacity="0.5"/><rect x="250" y="310" width="16" height="170" fill="#9A6C39" opacity="0.5"/><rect x="330" y="310" width="16" height="170" fill="#9A6C39" opacity="0.5"/><rect x="410" y="310" width="16" height="170" fill="#9A6C39" opacity="0.5"/><rect x="490" y="310" width="16" height="170" fill="#9A6C39" opacity="0.5"/><rect x="570" y="310" width="16" height="170" fill="#9A6C39" opacity="0.5"/><circle cx="240" cy="290" r="58" fill="#B2311F"/><path d="M211 258 a29 29 0 0 1 35 -12" fill="none" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="7" stroke-linecap="round"/><path d="M240 232 q10-24 30-26 q-6 26 -30 30 z" fill="#6E7B3F"/><circle cx="350" cy="274" r="66" fill="#D98A1C"/><path d="M317 238 a33 33 0 0 1 40 -13" fill="none" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="7" stroke-linecap="round"/><path d="M350 208 q10-24 30-26 q-6 26 -30 30 z" fill="#6E7B3F"/><circle cx="470" cy="288" r="60" fill="#5F7E33"/><path d="M440 255 a30 30 0 0 1 36 -12" fill="none" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="7" stroke-linecap="round"/><path d="M470 228 q10-24 30-26 q-6 26 -30 30 z" fill="#6E7B3F"/><circle cx="575" cy="296" r="52" fill="#8E4F9E"/><path d="M549 267 a26 26 0 0 1 31 -10" fill="none" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="7" stroke-linecap="round"/><path d="M575 244 q10-24 30-26 q-6 26 -30 30 z" fill="#6E7B3F"/><rect x="150" y="360" width="500" height="18" fill="#17324F" opacity="0.08"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="IMPX Global Traders mark">
+  <title>IMPX Global Traders mark</title>
+  <rect width="64" height="64" rx="14" fill="#0C1C30"/>
+  <g fill="none" stroke="#F2F5F9" stroke-width="4.2" stroke-linecap="round">
+    <path d="M16 15 C 34 24, 34 40, 16 49"/>
+    <path d="M48 15 C 30 24, 30 40, 48 49"/>
+  </g>
+  <circle cx="32" cy="32" r="5.6" fill="#D4922B"/>
+  <circle cx="32" cy="32" r="2.1" fill="#0C1C30"/>
+</svg>

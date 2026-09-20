@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of networking connectors and link topology">
+  <title>Illustration of networking connectors and link topology</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ECF0F6"/><stop offset="1" stop-color="#DEE6EF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <line x1="200" y1="180" x2="400" y2="130" stroke="#8FA3BA" stroke-width="6"/><line x1="200" y1="180" x2="260" y2="400" stroke="#8FA3BA" stroke-width="6"/><line x1="400" y1="130" x2="620" y2="210" stroke="#8FA3BA" stroke-width="6"/><line x1="400" y1="130" x2="480" y2="340" stroke="#8FA3BA" stroke-width="6"/><line x1="620" y1="210" x2="260" y2="400" stroke="#8FA3BA" stroke-width="6"/><line x1="620" y1="210" x2="660" y2="440" stroke="#8FA3BA" stroke-width="6"/><line x1="260" y1="400" x2="480" y2="340" stroke="#8FA3BA" stroke-width="6"/><line x1="480" y1="340" x2="660" y2="440" stroke="#8FA3BA" stroke-width="6"/><circle cx="200" cy="180" r="34" fill="#17324F"/><circle cx="200" cy="180" r="14" fill="#EEF2F7"/><circle cx="400" cy="130" r="34" fill="#D4922B"/><circle cx="400" cy="130" r="14" fill="#EEF2F7"/><circle cx="620" cy="210" r="34" fill="#17324F"/><circle cx="620" cy="210" r="14" fill="#EEF2F7"/><circle cx="260" cy="400" r="34" fill="#17324F"/><circle cx="260" cy="400" r="14" fill="#EEF2F7"/><circle cx="480" cy="340" r="34" fill="#D4922B"/><circle cx="480" cy="340" r="14" fill="#EEF2F7"/><circle cx="660" cy="440" r="34" fill="#17324F"/><circle cx="660" cy="440" r="14" fill="#EEF2F7"/><path d="M150 470 h120 v-28 h40 v28 h60 v70 h-220 z" fill="#17324F"/><rect x="176" y="486" width="12" height="30" fill="#E9B865"/><rect x="198" y="486" width="12" height="30" fill="#E9B865"/><rect x="220" y="486" width="12" height="30" fill="#E9B865"/><rect x="242" y="486" width="12" height="30" fill="#E9B865"/><rect x="264" y="486" width="12" height="30" fill="#E9B865"/><rect x="286" y="486" width="12" height="30" fill="#E9B865"/>
+</svg>

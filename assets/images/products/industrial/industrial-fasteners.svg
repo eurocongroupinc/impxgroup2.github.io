@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of assorted industrial bolts, nuts and washers">
+  <title>Illustration of assorted industrial bolts, nuts and washers</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#EEF2F7"/><stop offset="1" stop-color="#E3EAF2"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <g transform="rotate(-18 400 300)"><rect x="300" y="282" width="250" height="36" rx="6" fill="#8FA3BA"/><rect x="325" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="349" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="373" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="397" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="421" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="445" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="469" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="493" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="517" y="282" width="9" height="36" fill="#17324F" opacity="0.28"/><rect x="258" y="266" width="52" height="68" rx="8" fill="#17324F"/></g><polygon points="622.0,220.0 591.0,273.7 529.0,273.7 498.0,220.0 529.0,166.3 591.0,166.3" fill="#17324F"/><circle cx="560" cy="220" r="28.5" fill="#22415F"/><circle cx="560" cy="220" r="16.1" fill="#D4922B"/><polygon points="663.7,386.8 628.0,419.0 582.3,404.1 572.3,357.2 608.0,325.0 653.7,339.9" fill="#8FA3BA"/><circle cx="618" cy="372" r="22.1" fill="#6F86A0"/><circle cx="618" cy="372" r="12.5" fill="#E9B865"/><polygon points="281.2,417.4 246.5,458.7 193.3,449.4 174.8,398.6 209.5,357.3 262.7,366.6" fill="#17324F"/><circle cx="228" cy="408" r="24.8" fill="#22415F"/><circle cx="228" cy="408" r="14.0" fill="#E9B865"/><circle cx="170" cy="250" r="46" fill="none" stroke="#8FA3BA" stroke-width="18"/><circle cx="330" cy="452" r="34" fill="none" stroke="#17324F" stroke-width="14"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of agricultural processing and packaging supplies">
+  <title>Illustration of agricultural processing and packaging supplies</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#F0F1E9"/><stop offset="1" stop-color="#E4E7D9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#3F4A2E" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <rect x="130" y="270" width="230" height="220" rx="10" fill="#C09A62"/><rect x="130" y="340" width="230" height="22" fill="#EEF2F7" opacity="0.6"/><path d="M390 490 v-150 q0-40 50-40 h150 q50 0 50 40 v150 z" fill="#9BA85F"/><rect x="410" y="330" width="210" height="34" rx="8" fill="#E3EAF2"/><rect x="410" y="384" width="140" height="18" rx="6" fill="#EEF2F7" opacity="0.7"/><rect x="90" y="490" width="620" height="20" rx="6" fill="#52657D" opacity="0.4"/><circle cx="200" cy="230" r="17" fill="#D4922B" opacity="0.90"/><circle cx="236" cy="230" r="17" fill="#D4922B" opacity="0.72"/><circle cx="272" cy="230" r="17" fill="#D4922B" opacity="0.54"/><circle cx="308" cy="230" r="17" fill="#D4922B" opacity="0.36"/><path d="M600 240 h110 v70 h-110 z" fill="none" stroke="#6E7B3F" stroke-width="8"/><path d="M600 240 l110 70 M710 240 l-110 70" stroke="#6E7B3F" stroke-width="6" opacity="0.6"/>
+</svg>

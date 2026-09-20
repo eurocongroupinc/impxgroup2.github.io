@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of an industrial flow control valve">
+  <title>Illustration of an industrial flow control valve</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#EEF2F7"/><stop offset="1" stop-color="#E3EAF2"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <rect x="90" y="300" width="620" height="54" rx="10" fill="#8FA3BA"/><rect x="300" y="256" width="200" height="142" rx="16" fill="#17324F"/><rect x="336" y="140" width="128" height="122" rx="10" fill="#22415F"/><circle cx="400" cy="128" r="76" fill="none" stroke="#D4922B" stroke-width="20"/><rect x="392" y="60" width="16" height="140" fill="#D4922B"/><rect x="330" y="120" width="140" height="16" fill="#D4922B"/><rect x="210" y="282" width="34" height="90" rx="6" fill="#17324F"/><rect x="560" y="282" width="34" height="90" rx="6" fill="#17324F"/><circle cx="400" cy="327" r="30" fill="#EEF2F7" opacity="0.9"/>
+</svg>

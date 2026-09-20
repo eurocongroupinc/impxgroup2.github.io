@@ -1,0 +1,7 @@
+# IMPX Global Traders Private Limited
+# Update the Sitemap line to your live domain before launch.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.impxgroup.com/sitemap.xml

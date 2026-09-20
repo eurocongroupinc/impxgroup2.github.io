@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Illustration of industrial safety helmet, gloves and eyewear">
+  <title>Illustration of industrial safety helmet, gloves and eyewear</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#EEF2F7"/><stop offset="1" stop-color="#E3EAF2"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17324F" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#grid)"/>
+  <rect x="0" y="594" width="800" height="6" fill="#D4922B" opacity="0.75"/>
+  <path d="M180 350 a140 140 0 0 1 280 0 z" fill="#D4922B"/><path d="M150 350 h340 a16 16 0 0 1 0 32 h-340 a16 16 0 0 1 0-32 z" fill="#B87A1F"/><path d="M300 212 v138" stroke="#B87A1F" stroke-width="14"/><path d="M540 400 v-96 a22 22 0 0 1 44 0 v-34 a22 22 0 0 1 44 0 v34 a22 22 0 0 1 44 0 v96 a54 54 0 0 1-54 54 h-24 a54 54 0 0 1-54-54 z" fill="#17324F"/><rect x="510" y="140" width="210" height="72" rx="36" fill="#8FA3BA"/><circle cx="565" cy="176" r="24" fill="#EEF2F7"/><circle cx="665" cy="176" r="24" fill="#EEF2F7"/><rect x="150" y="430" width="300" height="20" rx="10" fill="#17324F" opacity="0.25"/>
+</svg>
